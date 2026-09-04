@@ -8,7 +8,7 @@ public class TwoDArrays {
        int cols = sc.nextInt();
 
 
-       int[][] numbers = new int[rows][cols];
+       int numbers[][] = new int[rows][cols];
 
 
        //input
