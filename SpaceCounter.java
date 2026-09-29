@@ -8,7 +8,7 @@ public class SpaceCounter {
 
         int spaceCount = 0;
 
-        // Loop through each character
+        
         for (int i = 0; i < input.length(); i++) {
             if (input.charAt(i) == ' ') {
                 spaceCount++;
